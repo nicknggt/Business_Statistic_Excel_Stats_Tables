@@ -34,4 +34,8 @@ In the questions, these are the known given info:
 From this question, we know that (you have to know) using **T Distribution** since the standard deviation is from the sample (not known from the population) and the confidence interval is given which belongs to **Point & Interval Estimate** section.
 ![ans_ex_1](./images_misc/example_1_ans.png)
 
+Your final answer is: **295.3199 (295.32)** for Lower Confidence Limit.
+
+### Example 2:
+
 
