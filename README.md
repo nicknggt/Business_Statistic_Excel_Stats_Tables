@@ -1,1 +1,2 @@
-# Business_Statistic_Excel_Stats_Tables
+# How to use Statistics Spreadsheets:
+- [Firstly, download the spreadsheets here](https://github.com/nicknggt/Business_Statistic_Excel_Stats_Tables/releases/download/v1.0/Distribution_stats_generator.xlsx)
