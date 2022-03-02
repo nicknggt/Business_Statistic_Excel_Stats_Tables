@@ -1,8 +1,13 @@
 # Statistics Spreadsheet for Business Statistic Course 26134 (UTS):
+- [Download Link](#download_link)
+- [Sections](#sections)
+
+<a name="sections"/></a>
 ## Download Link:
 - [Click here to download](https://github.com/nicknggt/Business_Statistic_Excel_Stats_Tables/releases/download/v1.0/Distribution_stats_generator.xlsx)
 - [\(Available in StuDocu\)](___)
 
+<a name="sections"/></a>
 ## Sections:
 - Inside the spreadsheet you can see these following sections:
 	1. Discrete & Continuous Distribution
