@@ -2,7 +2,7 @@
 - [Download Link](#download_link)
 - [Sections (in Excel)](#sections)
 - [How to use](#how_to_use)
-- Examples Questions:
+- **Examples Questions:**
 	- [Example 1](#ex_1)
 	- [Example 2](#ex_2)
 
@@ -62,6 +62,11 @@ This will belong to **Hypothesis Testing I** Using **Z Formula**
 ![ans_2_excel](./images_misc/example_2_ans.png)
 - Your final answer is **-6.94** when following Z stat formula, but just use **absolute value of it** (=6.94) for Z Statistic (it will **use absolute value of Z** to compare with Z critical value when considering if H0 should be reject or not so don't worry)
 - _**(Z critical value and Hypothesis rejection or not are not known yet since the question doesn't give you the confidence level; it's only asked you to find the test statistic only!)**_
+
+### Example 3:
+Based on [Example 2](#ex_2), If the confidence interval is 10%, should we reject H0 or not?
+
+
 
 
 
