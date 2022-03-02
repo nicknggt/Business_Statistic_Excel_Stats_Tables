@@ -1,10 +1,14 @@
 # Statistics Spreadsheet for Business Statistic Course 26134 (UTS):
 - [Download Link](#download_link)
 - [Sections (in Excel)](#sections)
+- [How to use](#how_to_use)
+- Examples Questions:
+	- [Example 1](#ex_1)
+	- [Example 2](#ex_2)
 
 <a name="download_link"/></a>
 ## Download Link:
-- [Click here to download](https://github.com/nicknggt/Business_Statistic_Excel_Stats_Tables/releases/download/v1.0/Distribution_stats_generator.xlsx)
+- [Click here to download the Spreadsheet](https://github.com/nicknggt/Business_Statistic_Excel_Stats_Tables/releases/download/v1.0/Distribution_stats_generator.xlsx)
 - [\(Available in StuDocu\)](___)
 
 <a name="sections"/></a>
@@ -20,12 +24,14 @@
 
 **Notes:** There are still some other sections in the field of study that are not included in the spreadsheets. I only included the most important one based on my perspective.
 
+<a name="how_to_use"/></a>
 ## How to use:
 - Enter your value in the **YELLOW** box, the answer then will be auto-generated in the **GREEN** box. Don't worry/ignore the **BLUE** box and also, **DO NOT DELETE** it.
 ![edit_boxes](./images_misc/tut_how_to_edit.png)
 
 - To give you more understanding what can this spreadsheet does, the 3 examples will be given (I just took it from sample final exams):
 
+<a name="ex_1"/></a>
 ### Example 1:
 A manager wants to estimate the daily revenue of a branch. A sample of daily revenues of **20 daily revenues** had **mean** revenue of **$300** and **standard deviation of $10**. Based on this sample, what is the **lower confidence limit of the 95% confidence** interval of revenues?
 
@@ -41,6 +47,7 @@ From this question, we know that (you have to know) using **T Distribution** sin
 
 Your final answer is: **295.3199 (295.32)** for Lower Confidence Limit.
 
+<a name ="ex_2"/></a>
 ### Example 2:
 The weekly profit of a restaurant follows a Normal distribution. **A sample of 25** weekly profit measurements had a **mean of 100**. If the **population standard deviation is $36**, what is the **test statistic** to test the hypothesis that the **mean profit of the restaurant is equal to $150**?
 
