@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "images_misc/Statistic Table Auto Calculator.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "images_misc/Statistic Table Auto Calculator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "b3888d139f8362b6",
   "lastOpenFiles": [
+    "images_misc/Statistic Table Auto Calculator.md",
     "README.md"
   ]
 }
