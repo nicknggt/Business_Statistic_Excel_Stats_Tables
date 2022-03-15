@@ -10,7 +10,7 @@
 <a name="download_link"/></a>
 ## Download Link:
 - [Click here to download the Spreadsheet](https://github.com/nicknggt/Business_Statistic_Excel_Stats_Tables/releases/download/v1.0/Distribution_stats_generator.xlsx)
-- [\(Available in StuDocu\)](___)
+- [\(Available in StuDocu\)](https://www.studocu.com/en-au/document/university-of-technology-sydney/business-statistics/statistic-table-auto-calculator-auto-excel-layout-calculations/23930622)
 
 <a name="sections"/></a>
 ## Sections (in Excel):
