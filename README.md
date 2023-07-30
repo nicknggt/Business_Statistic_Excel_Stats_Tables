@@ -9,7 +9,7 @@
 
 <a name="download_link"/></a>
 ## Download Link:
-- [Click here to download the Spreadsheet](blob:https://github.com/43856abf-c3d7-4155-af79-104180d49c07)
+- [Click here to download the Spreadsheet](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fnicknggt%2FBusiness_Statistic_Excel_Stats_Tables%2Fmain%2FDistribution_stats_generator.xlsx&wdOrigin=BROWSELINK)
 - [\(Available in StuDocu\)](https://www.studocu.com/en-au/document/university-of-technology-sydney/business-statistics/statistic-table-auto-calculator-auto-excel-layout-calculations/23930622)
 
 <a name="sections"/></a>
